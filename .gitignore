@@ -2,5 +2,5 @@ postp.ipynb
 .ipynb_checkpoints/
 reaction_system
 .pvd
-.vtk
+.vtu
 
